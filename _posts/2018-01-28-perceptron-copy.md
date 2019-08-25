@@ -1,9 +1,9 @@
 ---
-title: "Machine Learning Project: Perceptron"
-date: 2018-01-28
+title: "Machine Learning Project: Perceptron2"
+date: 2018-01-29
 tags: [machine learning, data science, neural network]
 header:
-    image: "/images/percept.jpg"
+    images: "/images/percept.jpg"
 excerpt: "Machine Learning, Perceptron, Data Science"
 ---
 
